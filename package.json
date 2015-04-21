@@ -1,0 +1,24 @@
+{
+  "name": "basic-object-extend",
+  "version": "0.0.1",
+  "description": "A very basic object extender library used by .call()ing it on an object and passing in the object to extend it with.",
+  "main": "lib\\object-extend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickmeldrum/basic-object-extend"
+  },
+  "keywords": [
+    "object",
+    "extend"
+  ],
+  "author": "Nick Meldrum <nick@nickmeldrum.com> (http://nickmeldrum.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickmeldrum/basic-object-extend/issues"
+  },
+  "homepage": "https://github.com/nickmeldrum/basic-object-extend"
+}
+
