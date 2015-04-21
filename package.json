@@ -19,6 +19,9 @@
   "bugs": {
     "url": "https://github.com/nickmeldrum/basic-object-extend/issues"
   },
-  "homepage": "https://github.com/nickmeldrum/basic-object-extend"
+  "homepage": "https://github.com/nickmeldrum/basic-object-extend",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4"
+  }
 }
-
