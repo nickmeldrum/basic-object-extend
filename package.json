@@ -4,7 +4,7 @@
   "description": "A very basic object extender library used by .call()ing it on an object and passing in the object to extend it with.",
   "main": "lib\\object-extend.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
