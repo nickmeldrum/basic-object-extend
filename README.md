@@ -3,6 +3,8 @@ Basic-Object-Extend
 
 A very small and simplistic function for extending a JS object. There are lots out there, but this one is possibly unique in that it's typical usage is to call it using call/ apply or bind as it operates on the 'this' object. This may or may not be a good thing, but you now have a choice whether to use this package or one that doesn't do this!
 
+Thanks to the great article: https://quickleft.com/blog/creating-and-publishing-a-node-js-module/ on how to build out an publish an npm module.
+
 ## Installation
   
     npm install basic-object-extend
